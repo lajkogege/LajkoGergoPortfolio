@@ -186,7 +186,7 @@ div.gallery {
 article {
     padding: 20px;
     background: #AA7E39;
-    overflow: auto; /* Adjuk hozzá az overflow tulajdonságot */
+    overflow: auto; 
     min-height: 80vh;
 }
 
@@ -194,8 +194,8 @@ article {
     margin: 5px;
     border: 1px solid white;
     width: 180px;
-    float: left; /* Tartsuk meg a float tulajdonságot */
-    box-sizing: border-box; /* Megakadályozza a marginok és paddingek kiszélesedését */
+    float: left; 
+    box-sizing: border-box; 
 }
 
   footer{
